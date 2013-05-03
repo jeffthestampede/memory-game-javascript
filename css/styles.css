@@ -1,0 +1,27 @@
+.box {
+  border: 2px solid black;
+  border-radius: 2px;
+  margin: 10px;
+  padding: 30px;
+  font-size: 25px;
+  width: 20px;
+}
+
+#container {
+  border: 2px solid red;
+  width: 400px;
+}
+
+.hidden {
+  display: none;
+}
+
+.green {
+  background-color: green;
+}
+
+.letter {
+  content: " ";
+}
+
+
